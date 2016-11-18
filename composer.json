@@ -1,0 +1,16 @@
+{
+  "name": "matgargano/custom-order-search",
+  "description": "customize your search results to order by a specific post order",
+  "keywords": ["wordpress"],
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Mat Gargano",
+      "email": "mgargano@gmail.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+
+  }
+}

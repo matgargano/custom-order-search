@@ -1,0 +1,8 @@
+.cos-sortable li {
+    border: 1px solid #bbb;
+    background: #ddd;
+    padding:10px;
+    cursor:move;
+    max-width:300px;
+
+}
